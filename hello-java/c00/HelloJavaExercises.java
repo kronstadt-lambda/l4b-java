@@ -1,3 +1,4 @@
+package c00;
 /*
 Exercises:
 1. Print a message with your name instead of "Hello World!".

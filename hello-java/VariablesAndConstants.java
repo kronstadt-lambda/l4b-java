@@ -87,6 +87,7 @@ public class VariablesAndConstants {
         System.out.println(price);
         var numbers = new ArrayList<Integer>(); // Type: ArrayList<Integer>
         numbers.add(1);
+        System.out.println(numbers.getClass().getSimpleName());
 
         // Cases where var CANNOT be used:
         // 1. Class fields/instance variables

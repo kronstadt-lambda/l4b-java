@@ -1,3 +1,5 @@
+package c04_structures;
+
 import java.util.ArrayList;
 
 public class Lists {

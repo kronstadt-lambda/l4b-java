@@ -1,3 +1,4 @@
+package c01_beginner;
 /*
 Exercises:
 1. Declare a String variable and assign your name to it.

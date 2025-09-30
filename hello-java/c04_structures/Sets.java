@@ -1,3 +1,4 @@
+package c04_structures;
 /*
  * Sets in Java are collections that store unique elements, meaning no duplicates are allowed.
  * They are useful for:

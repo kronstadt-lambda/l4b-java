@@ -1,3 +1,4 @@
+package c01_beginner;
 public class DataTypes {
     // live template: main
     public static void main(String[] args) {

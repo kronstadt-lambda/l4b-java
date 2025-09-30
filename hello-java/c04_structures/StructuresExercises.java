@@ -1,3 +1,4 @@
+package c04_structures;
 /*
 1. Create an Array with 5 values and print its length.
 2. Modify one of the Array values and print the value of the index before and after modifying it.

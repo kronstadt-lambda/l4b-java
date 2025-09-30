@@ -1,4 +1,4 @@
-
+package c04_structures;
 /*
  * Maps in Java are data structures that store key-value pairs.
  * They are useful for:

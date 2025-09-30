@@ -1,3 +1,4 @@
+package c02_operators;
 /*
 1. Create a variable with the result of each arithmetic operation.
 2. Create a variable for each type of assignment operation.

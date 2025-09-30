@@ -1,3 +1,4 @@
+package c04_structures;
 /*
  * DISCLAIMER:
  * When arrays are created, their elements are automatically initialized with default values:

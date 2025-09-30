@@ -1,4 +1,4 @@
-package c00;
+package c00_helloworld;
 /*
  * Topic 1: Hello World in Java
  * DISCLAIMER:

@@ -1,3 +1,4 @@
+package c03_conditionals;
 /*
 1. Set a user's age and show if they can vote (must be 18 or older).
 2. Declare two numbers and show which one is greater, or if they are

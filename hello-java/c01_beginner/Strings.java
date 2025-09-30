@@ -1,3 +1,5 @@
+package c01_beginner;
+
 import java.util.Locale;
 
 public class Strings {

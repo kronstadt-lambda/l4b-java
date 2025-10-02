@@ -1,4 +1,4 @@
-package c05_functions;
+package c06_functions;
 
 /**
  * DISCLAIMER: Function overloading should be used judiciously and only when it genuinely improves code readability

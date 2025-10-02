@@ -1,4 +1,16 @@
-package c05_functions;
+package c06_functions;
+/**
+ 1. Create a function that prints "Welcome to the Java course from zero!".
+ 2. Write a function that receives a name as a parameter and greets that person.
+ 3. Make a method that receives two integers and returns their subtraction.
+ 4. Create a method that calculates the square of a number (n * n).
+ 5. Write a function that receives a number and tells if it is even or odd.
+ 6. Create a method that receives an age and returns true if it is of legal age (and false otherwise).
+ 7. Implement a function that receives a string and returns its length.
+ 8. Create a method that receives an array of integers, calculates its average and returns it.
+ 9. Write a method that receives a number and returns its factorial.
+ 10. Create a function that receives an ArrayList<String> and traverses it showing each element.
+ */
 
 import java.util.ArrayList;
 

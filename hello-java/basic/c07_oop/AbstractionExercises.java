@@ -1,7 +1,40 @@
 package basic.c07_oop;
 
-import java.util.ArrayList;
+/**
+ 1. Create an abstract class Shape with the method
+ calculateArea(). Then implement two subclasses: Circle and
+ Rectangle, and make each one calculate its own area.
+ 2. Create a Playable interface with the play() method. Then
+ implement that interface in two classes: Guitar and Piano.
+ Each should display a different message when executed.
+ 3. Define an abstract class Animal with the makeSound()
+ method. Implement Dog and Cat to make different sounds.
+ Create an Animal array to show polymorphism.
+ 4. Create a Drawable interface. Implement the Circle,
+ Square, and Triangle classes that show how each figure is
+ drawn using draw().
+ 5. Create an abstract class Employee with a
+ calculateSalary() method. Implement FullTimeEmployee and
+ PartTimeEmployee with different logic to calculate salary.
+ 6. Create a Movable interface with the move() method. Make
+ the Car and Robot classes implement this method with
+ different behaviors.
+ 7. Create an abstract class Appliance with turnOn() and
+ turnOff methods. Implement TV and WashingMachine with
+ different messages when turning on and off.
+ 8. Create two interfaces Flyable and Swimmable. Create a
+ Duck class that implements both interfaces and shows how it
+ can fly and swim.
+ 9. Create an abstract class Document with the print()
+ method. Then create PDFDocument and WordDocument, each with
+ its own way of printing.
+ 10.
+ Create a Payable interface with the pay() method. Then
+ implement the Invoice and EmployeePayment classes, each
+ showing a different payment message.
+ */
 
+import java.util.ArrayList;
 
 public class AbstractionExercises {
     public static void main(String[] args) {

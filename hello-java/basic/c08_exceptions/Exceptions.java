@@ -26,7 +26,7 @@ public class Exceptions {
 
         // try-catch
         try {
-            var myDivision = 10/2;
+            var myDivision = 10/0;
             System.out.println("myNumber is: " + myDivision);
         } catch (ArithmeticException e) {
             System.out.println(ANSI_RED + "Arithmetic error: " + e.getMessage() + ANSI_RESET);
@@ -34,7 +34,7 @@ public class Exceptions {
 
         // try-catch-finally
         try {
-            var myDivision = 10/2;
+            var myDivision = 10/0;
             System.out.println("myNumber is: " + myDivision);
             var myName = "Brayan"; 
             System.out.println("My name is: " + myName.toUpperCase());
